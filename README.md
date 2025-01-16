@@ -3,7 +3,8 @@
 <img src="MCV/2.png" alt="Logo Aplikasi" >
 <img src="MCV/3.png" alt="Logo Aplikasi" >
 <img src="MCV/4.png" alt="Logo Aplikasi" >
---------------------
+
+-----------------
 Workspace ini berisi kode Java yang digunakan untuk membuat aplikasi CRUD (Create, Read, Update, Delete) untuk data mahasiswa dan nilai. Aplikasi ini menggunakan framework Swing untuk antarmuka pengguna dan database MySQL untuk penyimpanan data.
 
 ## Struktur Folder
