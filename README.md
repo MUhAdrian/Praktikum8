@@ -2,6 +2,7 @@
 <img src="MCV/1.png" alt="Logo Aplikasi" >
 <img src="MCV/2.png" alt="Logo Aplikasi" >
 <img src="MCV/3.png" alt="Logo Aplikasi" >
+<p>dokumentasi database ini menggunakan data sebelumnya,dan bukan yang terbaru</p>
 <img src="MCV/4.png" alt="Logo Aplikasi" >
 
 -----------------
