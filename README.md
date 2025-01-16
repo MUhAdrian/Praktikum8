@@ -5,7 +5,7 @@
 <p>dokumentasi database ini menggunakan data sebelumnya,dan bukan yang terbaru</p>
 <img src="MCV/4.png" alt="Logo Aplikasi" >
 
-##mohon maaf untuk fungsi tabel nilai masih tidak sempurna
+#mohon maaf untuk fungsi tabel nilai masih tidak sempurna
 
 -----------------
 Workspace ini berisi kode Java yang digunakan untuk membuat aplikasi CRUD (Create, Read, Update, Delete) untuk data mahasiswa dan nilai. Aplikasi ini menggunakan framework Swing untuk antarmuka pengguna dan database MySQL untuk penyimpanan data.
