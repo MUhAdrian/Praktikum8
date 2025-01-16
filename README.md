@@ -1,8 +1,8 @@
 <h1>penggunbakan konsep mvc</h1>
-
-<img src="/MVC/1.PNG">
-<img src="/MVC/2.PNG">
-<img src="/MVC/3.PNG">
+https://github.com/MUhAdrian/Praktikum8/blob/main/MCV/1.png
+https://github.com/MUhAdrian/Praktikum8/blob/main/MCV/2.png
+https://github.com/MUhAdrian/Praktikum8/blob/main/MCV/3.png
+https://github.com/MUhAdrian/Praktikum8/blob/main/MCV/4.png
 --------------------
 Workspace ini berisi kode Java yang digunakan untuk membuat aplikasi CRUD (Create, Read, Update, Delete) untuk data mahasiswa dan nilai. Aplikasi ini menggunakan framework Swing untuk antarmuka pengguna dan database MySQL untuk penyimpanan data.
 
